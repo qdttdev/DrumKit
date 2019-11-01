@@ -1,2 +1,2 @@
 # DrumKit
-Practice Javascript: Switch Statements, Objetcs, Methods, Constructor
+Practice Javascript: Switch Statements, Objects, Methods, Constructors
